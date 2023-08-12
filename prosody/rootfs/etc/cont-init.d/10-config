@@ -59,6 +59,7 @@ if [[ "$JVB_AUTH_PASSWORD" == "$OLD_JVB_AUTH_PASSWORD" ]]; then
 fi
 
 prosodyctl --config $PROSODY_CFG register $JVB_AUTH_USER $XMPP_AUTH_DOMAIN $JVB_AUTH_PASSWORD
+prosodyctl --config $PROSODY_CFG register jvb2 $XMPP_AUTH_DOMAIN $JVB_AUTH_PASSWORD
 
 if [[ ! -z $JIBRI_XMPP_PASSWORD ]]; then
     OLD_JIBRI_XMPP_PASSWORD=passw0rd
