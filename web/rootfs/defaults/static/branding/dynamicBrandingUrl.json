@@ -1,0 +1,7 @@
+{
+  "inviteDomain": "meet-local.lybl.com",
+  "backgroundColor": "#fff",
+  "logoImageUrl": "/usr/share/jitsi-meet/static/branding/lybl-logo.png",
+  "premeetingBackground": "url(/usr/share/jitsi-meet/static/branding/preMeetingBackground1.jpg)",
+  "virtualBackgrounds": ["/usr/share/jitsi-meet/static/branding/doctorClinicBackground1.jpeg"]
+}
