@@ -6,7 +6,7 @@
   "_comment5": "The url used for the image used as logo",
   "logoImageUrl": "https://github.com/Avijeet4/docker-jitsi-meet/blob/lybl_local/resources/lybl-logo.png",
   "_comment7": "The lobby/prejoin screen background",
-  "premeetingBackground": "url(https://github.com/Avijeet4/docker-jitsi-meet/blob/lybl_local/resources/preMeetingBackground1.jpg)",
+  "premeetingBackground": "https://github.com/Avijeet4/docker-jitsi-meet/blob/lybl_local/resources/preMeetingBackground1.jpg",
   "_comment8": "A list of images that can be used as video backgrounds. When this field is present, the default images will be replaced with those provided.",
   "virtualBackgrounds": ["https://github.com/Avijeet4/docker-jitsi-meet/blob/lybl_local/resources/doctorClinicBackground1.jpeg"]
 }
