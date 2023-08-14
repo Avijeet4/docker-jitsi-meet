@@ -35,13 +35,13 @@
       "action01Hover": "lightgreen",
       "disabled01": "beige",
       "success02": "cadetblue",
-      "action02Hover": "aliceblue",
+      "action02Hover": "aliceblue"
     },
-    typography: {
+    "typography": {
       "labelRegular": {
         "fontSize": 25,
         "lineHeight": 30,
-        "fontWeight": 500,
+        "fontWeight": 500
       }
     }
   }
